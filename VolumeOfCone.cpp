@@ -10,7 +10,7 @@
 
 int main() {
     // this function calculates the volume of a cone
-    
+
     // variable declarations
     int radiusOfCone;
     int heightOfCone;
